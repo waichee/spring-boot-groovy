@@ -1,4 +1,4 @@
-Spring XD demo app
+Spring Boot demo app
 ================================================
 Groovy application bootstrap using Spring boot (automatic configuration by Spring).
 Generated from http://start.spring.io/
@@ -44,7 +44,7 @@ Run the application
 ===================
 From command line :
 
-java -jar build/lib/springxdgroovy-0.0.1-SNAPSHOT.jar
+java -jar build/lib/spring-boot-groovy-0.0.1-SNAPSHOT.jar
 
 From IDE: execute the class Application.groovy main method
 
