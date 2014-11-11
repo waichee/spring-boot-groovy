@@ -7,12 +7,18 @@ Generated from http://start.spring.io/
 
 Frameworks & Libraries
 ======================
-Gradle    	: build
-Spring boot : bootstrap the application
+* Gradle    	: build
+
+* Spring boot : bootstrap the application
+
 http://projects.spring.io/spring-boot/
+
 https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples
-Spring XD	  : eXtreme Data. distributed framework for data ingestion and real time analytics for big data applications
+
+* Spring XD	  : eXtreme Data. distributed framework for data ingestion and real time analytics for big data applications
+
 http://projects.spring.io/spring-xd/
+
 https://github.com/spring-projects/spring-xd-samples
 
 
